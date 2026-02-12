@@ -20,7 +20,7 @@ Below you can find a selection of Quectel Pi's open-source projects. Our full re
 - **[demo-light-music-player](https://github.com/Quectel-Pi/demo-light-music-player)** - This project is a music-and-light visualization demo program based on the Quectel Pi H1 Smart Single-Board Computer.
 - **[demo-eye-remote-control](https://github.com/Quectel-Pi/demo-eye-remote-control)** - This project is developed based on Quectel Pi H1 Smart Single-Board Computer, fully utilizing its powerful computing and multimedia processing capabilities to achieve low-latency, high-accuracy eye tracking functionality.
 - **[demo-gesture-remote-control](https://github.com/Quectel-Pi/demo-gesture-remote-control)** - This project is a gesture-recognition–based remote video control demo implemented on the Quectel Pi H1 single-board computer. 
-- **[demo-face-transform](https://github.com/Quectel-Pi/demo-eye-remote-control)** - This project provides a USB‑camera‑based facial transformation feature with a cloud‑powered processing API and graphical interface, enabling quick deployment and effect validation on the Quectel Pi H1 board.
+- **[demo-face-transform](https://github.com/Quectel-Pi/demo-face-transform)** - This project provides a USB‑camera‑based facial transformation feature with a cloud‑powered processing API and graphical interface, enabling quick deployment and effect validation on the Quectel Pi H1 board.
 
 [Click](https://github.com/search?q=topic%3Ademo+org%3AQuectel-Pi&type=Repositories) for more demos.
 
