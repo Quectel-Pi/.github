@@ -6,7 +6,7 @@
 
 Quectel Pi is built upon Quectel’s years of industry expertise, offering a family of intelligent controller boards integrated with rich software features to deliver high‑performance, low‑power embedded solutions for IoT and edge computing..
 
-All official software, SDKs, sample applications, and development tools for the Quectel Pi series of smart single-board computers are available in this GitHub organization.To discover the full lineup of Quectel Pi SBC products and choose the right platform for your next innovation, visit [developer.quectel.com](https://developer.quectel.com/single-board-computer).
+All official software, SDKs, demo applications, and development tools for the Quectel Pi series of smart single-board computers are available in this GitHub organization.To discover the full lineup of Quectel Pi SBC products and choose the right platform for your next innovation, visit [developer.quectel.com](https://developer.quectel.com/single-board-computer).
 
 Below you can find a selection of Quectel Pi's open-source projects. Our full repository list can be found [here](https://github.com/orgs/Quectel-Pi/repositories).
 
